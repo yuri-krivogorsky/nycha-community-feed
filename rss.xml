@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Evergreen Feed</title>
+    <title>Harlem Community Outreach</title>
     <link>https://example.com</link>
-    <description>Static items that are always present</description>
+    <description>Harlem Community Outreach Calendar</description>
     <language>en-us</language>
 
     <!-- Cache hint only; does not cause reposting -->
     <ttl>5</ttl>
 
     <!-- Fixed build date so the feed appears unchanged -->
-    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2099 00:00:00 GMT</lastBuildDate>
 
     <item>
       <title>Permanent Item One</title>
@@ -32,4 +32,5 @@
 
   </channel>
 </rss>
+
 
