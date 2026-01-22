@@ -14,27 +14,22 @@
 
     <item>
       <title>Permanent Item One</title>
-      <description><![CDATA[
-        This is a static description for item one.
-      ]]></description>
+      <description>This is a static description for item one</description>
       <guid isPermaLink="false">evergreen-item-001</guid>
     </item>
 
     <item>
       <title>Permanent Item Two</title>
-      <description><![CDATA[
-        This is a static description for item two.
-      ]]></description>
+      <description>This is a static description for item two</description>
       <guid isPermaLink="false">evergreen-item-002</guid>
     </item>
 
     <item>
       <title>Permanent Item Three</title>
-      <description><![CDATA[
-        This is a static description for item three.
-      ]]></description>
+      <description>This is a static description for item three</description>
       <guid isPermaLink="false">evergreen-item-003</guid>
     </item>
 
   </channel>
 </rss>
+
