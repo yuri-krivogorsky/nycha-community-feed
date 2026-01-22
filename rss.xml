@@ -1,31 +1,40 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
+  <channel>
+    <title>Evergreen Feed</title>
+    <link>https://example.com</link>
+    <description>Static items that are always present</description>
+    <language>en-us</language>
 
-    <channel>
-    <title>Harlem Community Outreach</title>
-    <description>Abyssinian Harlem - Community Outreach</description>
+    <!-- Cache hint only; does not cause reposting -->
+    <ttl>5</ttl>
+
+    <!-- Fixed build date so the feed appears unchanged -->
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
+
     <item>
-      <title>Food Pantry</title>
-      <link>https://mtolivetharlem.churchcenter.com/calendar/event/205251525</link>
-      <description>Food Pantry</description>
-      <pubDate>Mon, 20 Jan 2026 10:00:00 GMT</pubDate>
+      <title>Permanent Item One</title>
+      <description><![CDATA[
+        This is a static description for item one.
+      ]]></description>
+      <guid isPermaLink="false">evergreen-item-001</guid>
     </item>
-  <item>
-      <title>Bible Study</title>
-      <link>https://mtolivetharlem.churchcenter.com/calendar/event/205908136</link>
-      <description>Bible Study</description>
-      <pubDate>Mon, 20 Jan 2026 10:00:00 GMT</pubDate>
-    </item>
+
     <item>
-      <title>Coat Drive</title>
-      <link>https://mtolivetharlem.churchcenter.com/calendar/event/205251525</link>
-      <description>Coat Drive</description>
-      <pubDate>Mon, 20 Jan 2026 10:00:00 GMT</pubDate>
+      <title>Permanent Item Two</title>
+      <description><![CDATA[
+        This is a static description for item two.
+      ]]></description>
+      <guid isPermaLink="false">evergreen-item-002</guid>
     </item>
+
+    <item>
+      <title>Permanent Item Three</title>
+      <description><![CDATA[
+        This is a static description for item three.
+      ]]></description>
+      <guid isPermaLink="false">evergreen-item-003</guid>
+    </item>
+
   </channel>
 </rss>
-
-
-
-
-
