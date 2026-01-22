@@ -9,20 +9,25 @@
     <item>
       <title>Food Pantry - Abyssinian Baptist Church</title>
       <description>Mon, Wed @ 7PM - 185 Odele Place</description>
+      <guid isPermaLink="false">item-001</guid>
       </item>
 
     <item>
       <title>Hot Meals - Abyssinian Baptist Church</title>
       <description>Tue, Thur @ 5:30PM - 185 Odele Place</description>
+      <guid isPermaLink="false">item-002</guid>
     </item>
 
     <item>
       <title>Food Pantry - Mt. Olivet Baptist Church</title>
       <description>Tue, Wed @ 11=AM - 201 Malcolm X Blvd</description>
+      <guid isPermaLink="false">item-003</guid>
+      <enclosure url="https://images.planningcenterusercontent.com/v1/transform?bucket=resources-production&disposition=inline&expires_at=1769925599&key=uploads%2F513926%2F4cbyra1p3s4t2t5p1dvi69b0bt37&thumb=960x540%23&signature=2464ab62a02dcdd9ba818fb1ecffecf990993fc2493b19ee3247b9ab093568e5" type="image/jpeg" />
     </item>
 
   </channel>
 </rss>
+
 
 
 
