@@ -11,7 +11,7 @@
     <item>
       <title>Food Pantry - Abyssinian Baptist Church</title>
       <description>Mon, Wed @ 7PM - 185 Odele Place</description>
-      <guid isPermaLink="false">evergreen-item-001</guid>
+      <guid isPermaLink="true">evergreen-item-001</guid>
     </item>
 
     <item>
@@ -28,6 +28,7 @@
 
   </channel>
 </rss>
+
 
 
 
