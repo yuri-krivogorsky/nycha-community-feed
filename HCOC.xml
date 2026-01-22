@@ -27,5 +27,33 @@
       <enclosure url="https://" type="image/jpeg" />
     </item>
 
+    <item>
+      <title>Food Pantry - Charles Pan Fried Chicken</title>
+      <description>Tue @ 12PM - 145 125 Street</description>
+      <guid isPermaLink="false">Item004</guid>
+      <enclosure url="https://" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>Hot Meals - Yuri Baptist Church</title>
+      <description>Fri @ 4PM - 78 West 149 Street</description>
+      <guid isPermaLink="false">Item005</guid>
+      <enclosure url="https://" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>Cook and Take - Danny's Harlem Kitchen</title>
+      <description>Sat @ 1PM - 1279 84 Street</description>
+      <guid isPermaLink="false">Item006</guid>
+      <enclosure url="https://" type="image/jpeg" />
+    </item>
+
+    <item>
+      <title>Story Time - Milk & Cookies - Abyssinian Baptist Church</title>
+      <description>Thu @ 5PM - 185 Odel Place</description>
+      <guid isPermaLink="false">Item007</guid>
+      <enclosure url="https://" type="image/jpeg" />
+    </item>
+
   </channel>
 </rss>
