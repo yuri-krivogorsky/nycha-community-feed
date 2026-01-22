@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 
+    <channel>
+    <title>Abyssinian Harlem</title>
+    <description>Abyssinian Harlem - Community Outreach</description>
     <item>
       <title>Food Pantry</title>
       <link>https://mtolivetharlem.churchcenter.com/calendar/event/205251525</link>
       <description>Food Pantry</description>
       <pubDate>Mon, 20 Jan 2026 10:00:00 GMT</pubDate>
     </item>
-
-  <channel>
-    <title>Abyssinian Harlem</title>
-    <description>Abyssinian Harlem - Community Outreach</description>
-
-    <item>
+  <item>
       <title>Bible Study</title>
       <link>https://mtolivetharlem.churchcenter.com/calendar/event/205908136</link>
       <description>Bible Study</description>
@@ -27,5 +25,6 @@
 
   </channel>
 </rss>
+
 
 
