@@ -5,12 +5,7 @@
     <link>https://example.com</link>
     <description>Harlem Community Outreach Calendar</description>
     <language>en-us</language>
-
-    <!-- Cache hint only; does not cause reposting -->
-    <ttl>5</ttl>
-
-    <!-- Fixed build date so the feed appears unchanged -->
-    <lastBuildDate>Mon, 01 Jan 2099 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2000 00:00:00 GMT</lastBuildDate>
 
     <item>
       <title>Food Pantry - Abyssinian Baptist Church</title>
@@ -32,6 +27,7 @@
 
   </channel>
 </rss>
+
 
 
 
