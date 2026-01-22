@@ -13,24 +13,25 @@
     <lastBuildDate>Mon, 01 Jan 2099 00:00:00 GMT</lastBuildDate>
 
     <item>
-      <title>Permanent Item One</title>
-      <description>This is a static description for item one</description>
+      <title>Food Pantry - Abyssinian Baptist Church</title>
+      <description>Mon, Wed @ 7PM - 185 Odele Place</description>
       <guid isPermaLink="false">evergreen-item-001</guid>
     </item>
 
     <item>
-      <title>Permanent Item Two</title>
-      <description>This is a static description for item two</description>
+      <title>Hot Meals - Abyssinian Baptist Church</title>
+      <description>Tue, Thur @ 5:30PM - 185 Odele Place</description>
       <guid isPermaLink="false">evergreen-item-002</guid>
     </item>
 
     <item>
-      <title>Permanent Item Three</title>
-      <description>This is a static description for item three</description>
+      <title>Food Pantry - Mt. Olivet Baptist Church</title>
+      <description>Tue, Wed @ 11=AM - 201 Malcolm X Blvd</description>
       <guid isPermaLink="false">evergreen-item-003</guid>
     </item>
 
   </channel>
 </rss>
+
 
 
