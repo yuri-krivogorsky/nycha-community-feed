@@ -7,50 +7,50 @@
     <ttl>5</ttl>
     
     <item>
-      <title>Food Pantry - Abyssinian Baptist Church</title>
-      <description>Mon, Wed @ 7PM - 185 Odele Place</description>
+      <title>Food Pantry</title>
+      <description>Mon, Wed @ 7PM - Abyssinian Baptist Church - 185 Odele Place</description>
       <guid isPermaLink="false">Item001</guid>
       <enclosure url="https://" type="image/jpeg" />
     </item>
 
     <item>
-      <title>Hot Meals - Abyssinian Baptist Church</title>
-      <description>Tue, Thur @ 5:30PM - 185 Odele Place</description>
+      <title>Hot Meals</title>
+      <description>Tue, Thur @ 5:30PM - Abyssinian Baptist Church - 185 Odele Place</description>
       <guid isPermaLink="false">Item002</guid>
       <enclosure url="https://" type="image/jpeg" />
     </item>
 
     <item>
-      <title>Food Pantry - Mt. Olivet Baptist Church</title>
-      <description>Tue, Wed, Fri @ 11AM - 201 Malcolm X Blvd</description>
+      <title>Food Pantry</title>
+      <description>Tue, Wed, Fri @ 11AM - Mt. Olivet Baptist Church - 201 Malcolm X Blvd</description>
       <guid isPermaLink="false">Item003</guid>
       <enclosure url="https://" type="image/jpeg" />
     </item>
 
     <item>
-      <title>Food Pantry - Charles Pan Fried Chicken</title>
-      <description>Tue @ 12PM - 145 125 Street</description>
+      <title>Food Pantry</title>
+      <description>Tue @ 12PM - Charles Pan Fried Chicken - 145 W 125 Street</description>
       <guid isPermaLink="false">Item004</guid>
       <enclosure url="https://" type="image/jpeg" />
     </item>
 
     <item>
-      <title>Hot Meals - Yuri Baptist Church</title>
-      <description>Fri @ 4PM - 78 West 149 Street</description>
+      <title>Hot Meals</title>
+      <description>Fri @ 4PM - Yuri Baptist Church - 78 West 149 Street</description>
       <guid isPermaLink="false">Item005</guid>
       <enclosure url="https://" type="image/jpeg" />
     </item>
 
     <item>
-      <title>Cook and Take - Danny's Harlem Kitchen</title>
-      <description>Sat @ 1PM - 1279 84 Street</description>
+      <title>Cook and Take</title>
+      <description>Sat @ 1PM - Danny's Harlem Kitchen - 1279 84 Street</description>
       <guid isPermaLink="false">Item006</guid>
       <enclosure url="https://" type="image/jpeg" />
     </item>
 
     <item>
-      <title>Story Time - Milk + Cookies - Abyssinian Baptist Church</title>
-      <description>Thu @ 5PM - 185 Odel Place</description>
+      <title>Story Time - Milk + Cookies</title>
+      <description>Thu @ 5PM - Abyssinian Baptist Church - 185 Odel Place</description>
       <guid isPermaLink="false">Item007</guid>
       <enclosure url="https://" type="image/jpeg" />
     </item>
