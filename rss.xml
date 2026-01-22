@@ -9,7 +9,7 @@
     <item>
       <title>Food Pantry - Abyssinian Baptist Church</title>
       <description>Mon, Wed @ 7PM - 185 Odele Place</description>
-      <guid isPermaLink="false">20260121-16001</guid>
+      <guid isPermaLink="true">20260121-16001</guid>
       <enclosure url="https://" type="image/jpeg" />
     </item>
 
@@ -29,6 +29,7 @@
 
   </channel>
 </rss>
+
 
 
 
