@@ -5,6 +5,7 @@
     <link>https://example.com</link>
     <description>Harlem Community Outreach Calendar</description>
     <language>en-us</language>
+    <ttl>5</ttl>
     <lastBuildDate>Mon, 01 Jan 2000 00:00:00 GMT</lastBuildDate>
 
     <item>
@@ -27,6 +28,7 @@
 
   </channel>
 </rss>
+
 
 
 
