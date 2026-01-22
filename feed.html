@@ -1,35 +1,54 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Embedded RSS Feed</title>
+  <title>Harlem Community Outreach Feed</title>
   <style>
+    /* Basic page styling */
     body {
       font-family: Arial, sans-serif;
-      margin: 2rem;
+      margin: 0;
+      padding: 2rem;
       background-color: #f9f9f9;
       color: #333;
     }
+
     h1 {
       text-align: center;
       margin-bottom: 2rem;
     }
+
+    /* Container for the iframe */
     .rss-container {
-      max-width: 800px;
+      max-width: 900px;
       margin: 0 auto;
+      background: #fff;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
-    iframe {
+
+    /* Make iframe responsive */
+    .rss-container iframe {
       width: 100%;
-      height: 600px;
+      height: 402px; /* Fixed height from your snippet */
       border: none;
+      overflow: hidden;
     }
   </style>
 </head>
 <body>
+
   <h1>Harlem Community Outreach Calendar</h1>
+
   <div class="rss-container">
-    <iframe src="https://feed.mikle.com/widget/v2/176847/?preloader-text=Loading&" height="402px" width="100%" class="fw-iframe" scrolling="no" frameborder="0"></iframe>
+    <iframe 
+      src="https://feed.mikle.com/widget/v2/176847/?preloader-text=Loading&" 
+      class="fw-iframe" 
+      scrolling="no">
+    </iframe>
   </div>
+
 </body>
 </html>
-
