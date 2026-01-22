@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Community Update</title>
+    <link>https://example.com</link>
+    <description>Latest updates for the Harlem Community</description>
+
+    <item>
+      <title>Post Title</title>
+      <link>https://mtolivetharlem.churchcenter.com/calendar/event/205251525</link>
+      <description>Food Pantry</description>
+      <pubDate>Mon, 20 Jan 2026 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
