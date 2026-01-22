@@ -76,5 +76,45 @@
     type="image/png" />
     </item>
 
+      <item>
+      <title>Game Night-Abyssinian Baptist Church</title>
+      <description>Fri @ 5PM - 185 Odel Place</description>
+      <guid isPermaLink="false">Item008</guid>
+       <enclosure
+    url="https://yuri-krivogorsky.github.io/nycha-community-feed/images/transparent.png"
+    length="68"
+    type="image/png" />
+    </item>
+
+      <item>
+      <title>Bake and Take-Red Rooster Harlem</title>
+      <description>Sunday @ 6AM - 12 Malcolm X Blvd</description>
+      <guid isPermaLink="false">Item009</guid>
+       <enclosure
+    url="https://yuri-krivogorsky.github.io/nycha-community-feed/images/transparent.png"
+    length="68"
+    type="image/png" />
+    </item>
+
+      <item>
+      <title>Knit and Keep-Harlem YMCA</title>
+      <description>Mon @ 5PM - 1275 W135 St</description>
+      <guid isPermaLink="false">Item010</guid>
+       <enclosure
+    url="https://yuri-krivogorsky.github.io/nycha-community-feed/images/transparent.png"
+    length="68"
+    type="image/png" />
+    </item>
+
+       <item>
+      <title>Sew and Rock-Edwing D'Angelo Atelier Harlem</title>
+      <description>Sun @ 2PM - 2231 Adam Clayton Powell Jr Blvd</description>
+      <guid isPermaLink="false">Item011</guid>
+       <enclosure
+    url="https://yuri-krivogorsky.github.io/nycha-community-feed/images/transparent.png"
+    length="68"
+    type="image/png" />
+    </item>
+
   </channel>
 </rss>
