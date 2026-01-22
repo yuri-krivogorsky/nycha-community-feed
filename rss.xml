@@ -21,12 +21,13 @@
     <item>
       <title>Food Pantry - Mt. Olivet Baptist Church</title>
       <description>Tue, Wed @ 11=AM - 201 Malcolm X Blvd</description>
-      <guid isPermaLink="false">item-003</guid>
+      <guid isPermaLink="true">item-003</guid>
       <enclosure url="https://" type="image/jpeg" />
     </item>
 
   </channel>
 </rss>
+
 
 
 
