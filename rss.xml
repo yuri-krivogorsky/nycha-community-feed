@@ -2,7 +2,6 @@
 <rss version="2.0">
   <channel>
     <title>Harlem Community Outreach</title>
-    <link>https://example.com</link>
     <description>Harlem Community Outreach Calendar</description>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2000 00:00:00 GMT</lastBuildDate>
@@ -24,6 +23,7 @@
 
   </channel>
 </rss>
+
 
 
 
