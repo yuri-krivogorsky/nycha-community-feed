@@ -116,5 +116,25 @@
     type="image/png" />
     </item>
 
+     <item>
+      <title>Youth Bake Sale-Abyssinian Harlem</title>
+      <description>Sun @ 1PM - 185 Odele Place</description>
+      <guid isPermaLink="false">Item012</guid>
+       <enclosure
+    url="https://yuri-krivogorsky.github.io/nycha-community-feed/images/transparent.png"
+    length="68"
+    type="image/png" />
+    </item>
+
+     <item>
+      <title>Feed the Homeless-West Harlem Housing</title>
+      <description>Sat @ 12PM - 38 W 134 Street</description>
+      <guid isPermaLink="false">Item013</guid>
+       <enclosure
+    url="https://yuri-krivogorsky.github.io/nycha-community-feed/images/transparent.png"
+    length="68"
+    type="image/png" />
+    </item>
+
   </channel>
 </rss>
